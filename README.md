@@ -1,1 +1,1 @@
-# EthicCheck-main
+# EthicCheck
